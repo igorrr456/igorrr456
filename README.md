@@ -3,7 +3,7 @@
 - 🎓 Estudante de **Desenvolvimento de Sistemas** (ETEC)
 - 💻 Conhecimentos em **Flutter, C#, HTML, CSS e JavaScript**
 - 🚀 Desenvolvimento de **projetos pessoais** em aplicações web e C#
-- 🔐 Estudante de **Segurança da Informação (Pentest)** com práticas na **TryHackMe**
+
 
 ---
 
@@ -12,7 +12,7 @@
 - 🎓 Student of **Systems Development** (ETEC)
 - 💻 Knowledge in **Flutter, C#, HTML, CSS and JavaScript**
 - 🚀 Working on **personal projects** focused on web applications and C#
-- 🔐 Student of **Information Security (Pentesting)**, practicing with **TryHackMe**
+
 
 ---
 
